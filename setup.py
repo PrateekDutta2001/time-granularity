@@ -8,5 +8,5 @@ setup(
     author='Prateek Dutta',
     author_email='parteekdutta2001@email.com',
     description='A Python package for managing time granularity with options to re-execute at different intervals.',
-    url='https://github.com/PrateekDutta2001/time-granularity-package',
+    url='https://github.com/PrateekDutta2001/time-granularity',
 )

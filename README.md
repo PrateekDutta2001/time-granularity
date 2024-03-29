@@ -1,1 +1,1 @@
-# time-granularity-package
+# time-granularity

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+time_granularity/__init__.py
+time_granularity/time_granularity.py
+time_granularity.egg-info/PKG-INFO
+time_granularity.egg-info/SOURCES.txt
+time_granularity.egg-info/dependency_links.txt
+time_granularity.egg-info/top_level.txt

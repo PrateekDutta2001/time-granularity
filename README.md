@@ -10,6 +10,7 @@ To use the time_granularity package, you can follow these steps:
 
 Use the package in your Python code:
 
+```bash
 from time_granularity import TimeGranularity
 # usage
 granularity = 'minute'  # Change this to 'hour', 'day', 'week', or 'month' as needed
